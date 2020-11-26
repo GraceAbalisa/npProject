@@ -1,16 +1,16 @@
 # npProject
 
-# Type of challenge: Consolidation
+**Type of challenge:** Consolidation
 
-# Duration: 4 weeks
+**Duration:** 4 weeks
 
-# Team challenge: Solo
+**Team challenge:** Solo
 
-# Technologies used: 
+**Technologies used:**
 
-# Chosen theme: Tourisme
+**Chosen theme:** Tourisme
 
-# Project
+**Project**
 It will be a website about a l
 
 # Functionalities 
